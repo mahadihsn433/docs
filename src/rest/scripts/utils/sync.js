@@ -1,4 +1,4 @@
-import { readFile, writeFile } from 'fs/promises'
+src/rest/scripts/utils/update-markdown.jsimport { readFile, writeFile } from 'fs/promises'
 import { existsSync } from 'fs'
 import path from 'path'
 import { mkdirp } from 'mkdirp'
